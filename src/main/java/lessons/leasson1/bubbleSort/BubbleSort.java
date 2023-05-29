@@ -1,4 +1,4 @@
-package leasson1.bubbleSort;
+package lessons.leasson1.bubbleSort;
 
 public class BubbleSort {
 

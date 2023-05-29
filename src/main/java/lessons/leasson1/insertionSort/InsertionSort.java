@@ -1,4 +1,4 @@
-package leasson1.insertionSort;
+package lessons.leasson1.insertionSort;
 
 public class InsertionSort {
 

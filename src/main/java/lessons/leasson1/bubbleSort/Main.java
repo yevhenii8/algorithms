@@ -1,6 +1,4 @@
-package leasson1.bubbleSort;
-
-import leasson1.bubbleSort.BubbleSort;
+package lessons.leasson1.bubbleSort;
 
 import java.util.Arrays;
 
